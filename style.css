@@ -303,16 +303,16 @@ body {
 .contact nav a.gmail .content h1 {
   color: #d14836;
 }
-.contact nav a.facebook .icon svg {
+.contact nav a.instagram .icon svg {
  /* background-color: #3b5998; */
 }
-.contact nav a.facebook .content h1 {
+.contact nav a.instagram .content h1 {
   color: #ad2d99 ; /*#3b5998;*/
 }
-.contact nav a.twitter .icon svg {
+.contact nav a.whatsapp .icon svg {
   background-color: #1da1f2;
 }
-.contact nav a.twitter .content h1 {
+.contact nav a.whatsapp .content h1 {
   color: #2ab540;
 }
 .contact nav a .icon {
