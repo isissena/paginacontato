@@ -51,7 +51,7 @@ body {
   border-radius: 5px;
   float: left;
   width: 100%;
-  background-color: #3e9278 ;
+  background-color: #abd0bc
 }
 .contact main section .content {
   float: left;
@@ -101,7 +101,7 @@ body {
 .contact main .title {
   float: left;
   width: 100%;
-  background-color: #216651;
+  background-color: #677878;
   max-height: 0px;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
@@ -148,7 +148,7 @@ body {
   position: absolute;
   bottom: 0;
   right: 50%;
-  background-color: #b8d8c0;
+  background-color: #b1cca9
   color: #677878;
   border: 0;
   width: 200px;
